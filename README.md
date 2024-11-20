@@ -29,7 +29,7 @@ pip install opencv-python numpy
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/ADITYAPANGSHE/Vehicle_recognation.git
+git clone https://github.com/Adiii2020/Vehicle_recognation.git
 ```
 2. Place the model files in the project directory.
 
